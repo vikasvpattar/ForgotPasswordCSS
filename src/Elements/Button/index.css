@@ -1,0 +1,8 @@
+.btn {
+  background-color: #028fff;
+  text-transform: capitalize;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #028fff;
+  color: #ffffff;
+}
